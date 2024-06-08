@@ -27,5 +27,26 @@ public class Virata_SeanMaverick_FinalsReq {
 
         // Print the power set of the set
         System.out.println("\n" + "The P(A) = " + setPow);
+
+        /* 
+        Coding standards and conventions
+        - Modified the names for variables and constants in the program.
+
+        Comments
+        - Comments remain unchanged.
+        - Added this new multi-line comment to explain changes.
+
+        Error handling
+        - Didn't add error handling as the program doesn't require use input.
+
+        Code reusability and modularity
+        - Program doesn't need or have reused code.
+
+        Optimization and performance
+        - Not applicable to the program.
+
+        Security best practice
+        - The program doesn't accept user input, not security measures required.
+        */
     }
 }
